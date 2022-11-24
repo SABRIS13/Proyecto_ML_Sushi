@@ -55,6 +55,9 @@ Mientras que los 10 lugares con una mayor cantidad de puestos de sushi, se encue
   
  <br> Se recomienda abrir un restaurante en el cluster /*Capitolio o Término medio*/, otros factores como son la opinión del público, violencia o nivel socieconomico
  se pueden considerar.
+ 
+### PRESENTACIÓN DE RESULTADOS
+Los resultados del modelado se puede encontrar en la siguiente presentación: [Sushi](https://www.canva.com/design/DAFSyzMHpYc/CDgjD1YzBC8vkJfHz4vfhw/view?utm_content=DAFSyzMHpYc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
   
 ## FUENTE
 * INEGI: DENUE Sinaloa (2022): [Actividades Económicas](https://www.inegi.org.mx/app/descarga/?ti=6)
